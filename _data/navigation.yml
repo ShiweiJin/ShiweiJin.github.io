@@ -7,7 +7,4 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /projects/    
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /projects/
