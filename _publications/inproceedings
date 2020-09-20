@@ -1,8 +1,9 @@
 ---
 title: "Multi-Task Center-Of-Pressure Metrics Estimation from Skeleton Using Graph Convolutional Network"
 collection: publications
-permalink: publication/inproceedings
+permalink: /publication/inproceedings
 date: 2020-05-04
 venue: 'ICASSP'
-paperurl: 'https://ieeexplore.ieee.org/document/9053764'
 ---
+
+[Access paper here](https://ieeexplore.ieee.org/document/9053764)
