@@ -23,7 +23,7 @@ Education
   * Research: Fall risk assessment
 
 * **Zhejiang University**, Sep. 2014 - Jun. 2018
-  * B.S. in Electrical Engineering
+  * B.S. in Optical Science and Engineering 
   * Advisor: Prof. Haifeng Li, Prof. Dong Liu
   * Research: 3D display human-computer gesture interaction, Space-borne Lidar Remote Sensing in Marine Research
 
