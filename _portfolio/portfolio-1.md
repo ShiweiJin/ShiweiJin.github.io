@@ -1,6 +1,6 @@
 ---
 title: "Boosting Feature Matching Accuracy with Pairwise Affine Estimation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/2DFeat.png'>"
+excerpt: "A novel estimation unit is proposed to boost the 2D feature matching accuracy<br/><img src='/images/2DFeat.png'>"
 collection: projects
 ---
 
