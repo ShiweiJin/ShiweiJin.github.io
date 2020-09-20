@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Boosting Feature Matching Accuracy with Pairwise Affine Estimation"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/2DFeat.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A novel estimation unit is proposed to estimate the relative affine transformation between two patches. And this will help to recitify both patches to remove relative geometric distortions and then generate descriptors. The original unsimilar patchs become more similar and it is easier to do the feature matching task. 
